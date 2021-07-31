@@ -2,6 +2,8 @@
 
 Python implemented, terminal/command-line interactive game that requires to find a number based on greater than or less than feedback.
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/leszekgrechowicz/Guess-the-Number--Game)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/leszekgrechowicz/Guess-the-Number--Game)
 ![](game.png) 
 
  
@@ -20,7 +22,7 @@ git clone git@github.com:leszekgrechowicz/Guess-the-Number--Game.git
 git clone https://github.com/leszekgrechowicz/Guess-the-Number--Game.git
 ```
 
-**To run the game simply go to the directory and use Python as follows:**
+**To run the game simply go to the directory and use python as follows:**
 ```
 $ cd Guess-the-Number--Game
 ```
@@ -37,3 +39,8 @@ python guess_the_number.py
 
 Try to guess the number and follow the clues :) 
 
+## Meta:
+
+Leszek Grechowicz – leszek_grechowicz@o2.pl
+
+[https://github.com/leszekgrechowicz](https://github.com/leszekgrechowicz/)
